@@ -1,0 +1,856 @@
+.health-connect-pro-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.health-connect-pro-health-connect-pro {
+  width: 100%;
+  height: 968px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.health-connect-pro-rectangle15 {
+  top: 463px;
+  left: -8px;
+  width: 1296px;
+  height: 525px;
+  position: absolute;
+  border-radius: 16px;
+}
+.health-connect-pro-rectangle4 {
+  top: 0px;
+  left: -9px;
+  width: 1289px;
+  height: 480px;
+  position: absolute;
+}
+.health-connect-pro-text {
+  top: 41px;
+  left: 96px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text02 {
+  top: 39px;
+  left: 205px;
+  color: rgba(1, 78, 213, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-group1 {
+  top: 38px;
+  left: 657px;
+  width: 611px;
+  height: 31px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.health-connect-pro-text04 {
+  top: 3px;
+  left: 122px;
+  color: rgba(1, 78, 213, 0.8299999833106995);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-rectangle32 {
+  top: 0px;
+  left: 0px;
+  width: 98px;
+  height: 31px;
+  position: absolute;
+  border-radius: 15px;
+}
+.health-connect-pro-text06 {
+  top: 3px;
+  left: 26px;
+  color: rgba(255, 255, 255, 1);
+  width: 83px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text08 {
+  top: 3px;
+  left: 296px;
+  color: rgba(1, 78, 213, 0.8299999833106995);
+  width: 163px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text10 {
+  top: 3px;
+  left: 472px;
+  color: rgba(1, 78, 213, 0.8299999833106995);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text12 {
+  top: 107px;
+  left: 96px;
+  color: rgba(1, 78, 213, 0.8299999833106995);
+  height: auto;
+  position: absolute;
+  font-size: 37.2588996887207px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-rectangle33 {
+  top: 378px;
+  left: 96px;
+  width: 124px;
+  height: 31px;
+  position: absolute;
+  border-radius: 15px;
+}
+.health-connect-pro-text14 {
+  top: 382px;
+  left: 120px;
+  color: rgba(255, 255, 255, 1);
+  width: 83px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text16 {
+  top: 150px;
+  left: 96px;
+  color: rgba(1, 78, 213, 0.8299999833106995);
+  height: auto;
+  position: absolute;
+  font-size: 37.2588996887207px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text18 {
+  top: 202.62460327148438px;
+  left: 96px;
+  color: rgba(0, 0, 0, 0.5899999737739563);
+  width: 397px;
+  height: auto;
+  position: absolute;
+  font-size: 10.278318405151367px;
+  font-style: Regular;
+  text-align: justified;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-maledoctorportraitisolatedwhitebackground56744085r {
+  top: 72px;
+  left: 586px;
+  width: 390px;
+  height: 408px;
+  position: absolute;
+}
+.health-connect-pro-istockphoto1189304032612x612removebgpreview1 {
+  top: 88px;
+  left: 935px;
+  width: 270px;
+  height: 392px;
+  position: absolute;
+}
+.health-connect-pro-rectangle5 {
+  top: 439px;
+  left: 214px;
+  width: 840px;
+  height: 190px;
+  position: absolute;
+  border-radius: 16px;
+}
+.health-connect-pro-rectangle7 {
+  top: 508px;
+  left: 921px;
+  width: 103px;
+  height: 34px;
+  position: absolute;
+  border-radius: 20px;
+}
+.health-connect-pro-rectangle321 {
+  top: 508px;
+  left: 252px;
+  width: 326px;
+  height: 33px;
+  position: absolute;
+  border-radius: 23px;
+}
+.health-connect-pro-rectangle331 {
+  top: 508px;
+  left: 599px;
+  width: 295px;
+  height: 33px;
+  position: absolute;
+  border-radius: 23px;
+}
+.health-connect-pro-svg {
+  top: 516px;
+  left: 263px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.health-connect-pro-svg1 {
+  top: 519px;
+  left: 938px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+}
+.health-connect-pro-text23 {
+  top: 516px;
+  left: 290px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text25 {
+  top: 357px;
+  left: 96px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text27 {
+  top: 516px;
+  left: 648px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  width: 79px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text29 {
+  top: 513px;
+  left: 957px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text31 {
+  top: 469px;
+  left: 259px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text33 {
+  top: 467px;
+  left: 368px;
+  color: rgba(1, 78, 213, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text35 {
+  top: 933px;
+  left: 295px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text37 {
+  top: 931px;
+  left: 404px;
+  color: rgba(33, 108, 239, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-svg2 {
+  top: 517px;
+  left: 614px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.health-connect-pro-text39 {
+  top: 554px;
+  left: 259px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-rectangle8 {
+  top: 583px;
+  left: 257px;
+  width: 121px;
+  height: 19px;
+  position: absolute;
+  border-radius: 12px;
+}
+.health-connect-pro-rectangle9 {
+  top: 583px;
+  left: 386px;
+  width: 122px;
+  height: 19px;
+  position: absolute;
+  border-radius: 12px;
+}
+.health-connect-pro-rectangle10 {
+  top: 583px;
+  left: 515px;
+  width: 122px;
+  height: 19px;
+  position: absolute;
+  border-radius: 12px;
+}
+.health-connect-pro-rectangle11 {
+  top: 583px;
+  left: 644px;
+  width: 121px;
+  height: 19px;
+  position: absolute;
+  border-radius: 12px;
+}
+.health-connect-pro-rectangle12 {
+  top: 583px;
+  left: 773px;
+  width: 121px;
+  height: 19px;
+  position: absolute;
+  border-radius: 12px;
+}
+.health-connect-pro-text41 {
+  top: 584px;
+  left: 261.5px;
+  color: rgba(0, 0, 0, 0.8500000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 11.25px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text43 {
+  top: 457px;
+  left: 522px;
+  color: rgba(1, 78, 213, 0.8299999833106995);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-rectangle30 {
+  top: 748px;
+  left: 102px;
+  width: 291px;
+  height: 29px;
+  position: absolute;
+  border-radius: 27px;
+}
+.health-connect-pro-text45 {
+  top: 585px;
+  left: 397px;
+  color: rgba(0, 0, 0, 0.8500000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 11.25px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text47 {
+  top: 584px;
+  left: 522px;
+  color: rgba(0, 0, 0, 0.8500000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 11.25px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text49 {
+  top: 584px;
+  left: 651px;
+  color: rgba(0, 0, 0, 0.8500000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 11.25px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text51 {
+  top: 584px;
+  left: 777.5px;
+  color: rgba(0, 0, 0, 0.8500000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 11.25px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-x {
+  top: 588.3653564453125px;
+  left: 365px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.health-connect-pro-x1 {
+  top: 588.3653564453125px;
+  left: 494px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.health-connect-pro-x2 {
+  top: 588.3653564453125px;
+  left: 623px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.health-connect-pro-x3 {
+  top: 588.3653564453125px;
+  left: 752px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.health-connect-pro-x4 {
+  top: 588.3653564453125px;
+  left: 881px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.health-connect-pro-text53 {
+  top: 659px;
+  left: 103px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text55 {
+  top: 697px;
+  left: 102px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-ellipse1 {
+  top: 690px;
+  left: 717px;
+  width: 486px;
+  height: 442px;
+  position: absolute;
+}
+.health-connect-pro-image360f320523164tx-rdd7i2x-tvv-kfz2o-ru-rp-kope5z0ni {
+  top: 628px;
+  left: 732px;
+  width: 540px;
+  height: 360px;
+  position: absolute;
+}
+.health-connect-pro-rectangle14 {
+  top: 737px;
+  left: 638px;
+  width: 198px;
+  height: 236px;
+  position: absolute;
+  border-radius: 7px;
+}
+.health-connect-pro-text57 {
+  top: 756px;
+  left: 646px;
+  color: rgba(255, 255, 255, 1);
+  width: 182px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-rectangle1 {
+  top: 844px;
+  left: 681px;
+  width: 112px;
+  height: 33px;
+  position: absolute;
+  border-radius: 8px;
+}
+.health-connect-pro-rectangle31 {
+  top: 914px;
+  left: 681px;
+  width: 112px;
+  height: 33px;
+  position: absolute;
+  border-radius: 8px;
+}
+.health-connect-pro-svg3 {
+  top: 754px;
+  left: 115px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.health-connect-pro-text59 {
+  top: 848px;
+  left: 709px;
+  color: rgba(255, 255, 255, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text61 {
+  top: 918px;
+  left: 703px;
+  color: rgba(255, 255, 255, 1);
+  width: 69px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text63 {
+  top: 753px;
+  left: 145px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text65 {
+  top: 932px;
+  left: 103px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text67 {
+  top: 890px;
+  left: 674px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-text69 {
+  top: 819px;
+  left: 682px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-rectangle34 {
+  top: 787px;
+  left: 103px;
+  width: 347px;
+  height: 126px;
+  position: absolute;
+  border-radius: 15px;
+}
+.health-connect-pro-text71 {
+  top: 795px;
+  left: 179px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-star11 {
+  top: 817px;
+  left: 179px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.health-connect-pro-star12 {
+  top: 817px;
+  left: 194px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.health-connect-pro-star13 {
+  top: 817px;
+  left: 209px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.health-connect-pro-star16 {
+  top: 817px;
+  left: 225px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.health-connect-pro-star17 {
+  top: 817px;
+  left: 240px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.health-connect-pro-text73 {
+  top: 832px;
+  left: 179px;
+  color: rgba(0, 0, 0, 0.7900000214576721);
+  width: 257px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Medium;
+  text-align: justified;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.health-connect-pro-img202305140423563741 {
+  top: 795px;
+  left: 112px;
+  width: 51px;
+  height: 50px;
+  position: absolute;
+  border-radius: 9px;
+}
